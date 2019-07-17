@@ -1,0 +1,16 @@
+
+.fondo{
+	background:url("https://www.guatemala.com/fotos/201703/FEGUA1-885x500.jpg")no-repeat fixed;
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	-o-background-size:cover;
+	background-size:cover;
+	height:800px;
+	width:100%;
+}
+.colorletra{
+	color:#ffffff;
+}
+.fondo3{
+	color:#05D324;
+}
